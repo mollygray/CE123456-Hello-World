@@ -12,7 +12,7 @@
 
 ## Overview
 
-Put the CE overview here.
+This example demonstrates UART communication and blinks an LED using a TCPWM Component, on the PSoC® 6 MCU, using ModusToolbox IDE.
 
 See [CE123456.pdf](https://github.com/JimTrudeau/CE123456-Hello-World/blob/master/CE123456.pdf) for setup instructions, and full details on how to build and use the code example.
 
