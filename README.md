@@ -18,7 +18,7 @@ See [CE123456.pdf](https://github.com/JimTrudeau/CE123456-Hello-World/blob/maste
 
 ## Related Resources
 
-For other code examples, see [PSoC 6 MCU Code Exapmles with ModusToolbox IDE](https://github.com/JimTrudeau/PSoC-6-MCU-Code-Examples-with-ModusToolbox).
+For other code examples, see [PSoC 6 MCU Code Examples with ModusToolbox IDE](https://github.com/JimTrudeau/PSoC-6-MCU-Code-Examples-with-ModusToolbox).
 
 For a comprehensive list of PSoC 6 MCU resources, see [KBA223067](https://community.cypress.com/docs/DOC-14644) in the Cypress community. 
 
